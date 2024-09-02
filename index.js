@@ -124,7 +124,7 @@ console.log(res)
 
 //-------------------JSON-------------------
 
-let peoples=[
+/*let peoples=[
     {name:"archetype1", age:"45"},
     {name:"archetype2", age:"34"},
     {name:"archetype3", age:"40"},
@@ -132,5 +132,9 @@ let peoples=[
 ]
 
 console.log(peoples[1] ['age'])
+*/
 
+
+//----------------------Navigation object-------------------
+// practice by using browser
 
