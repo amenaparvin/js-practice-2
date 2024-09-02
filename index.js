@@ -41,9 +41,14 @@ let res=archetype.indexOf("Web")
 console.log(res)
 */
 
-let archetype=["Android","IOS","Windows","Mac","Web"]
+/*let archetype=["Android","IOS","Windows","Mac","Web"]
 let res=archetype.pop()
-console.log(res)
+console.log(res)*/
+
+
+let archetype=["Android","IOS","Windows","Mac","Web"]
+let res=archetype.push("Apple")
+console.log(archetype)
 
 
 
