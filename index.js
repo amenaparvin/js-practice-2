@@ -56,9 +56,14 @@ archetype.reverse("");
 console.log(archetype)
 */
 
-let archetype=["Android","IOS","Windows","Mac","Web"]
+/*let archetype=["Android","IOS","Windows","Mac","Web"]
 let res=archetype.slice(1,3);
 console.log(res);
+*/
+
+let numbers=[30,88,50,60,33,10,5];
+numbers.sort()
+console.log(numbers);
 
 
 
