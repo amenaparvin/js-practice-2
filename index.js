@@ -105,9 +105,15 @@ let res=text.trim()
 console.log(res)
 */
 
-
+/*
 let text="hello world"
 let res=text.toUpperCase()
+console.log(res)
+*/
+
+
+let text="hello world"
+let res=text.toLowerCase()
 console.log(res)
 
 
