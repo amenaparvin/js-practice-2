@@ -116,9 +116,21 @@ let text="hello world"
 let res=text.toLowerCase()
 console.log(res)
 */
-
+/*
 let text="hello world"
 let res=text.indexOf("w")
 console.log(res)
+*/
+
+//-------------------JSON-------------------
+
+let peoples=[
+    {name:"archetype1", age:"45"},
+    {name:"archetype2", age:"34"},
+    {name:"archetype3", age:"40"},
+    
+]
+
+console.log(peoples[1] ['age'])
 
 
