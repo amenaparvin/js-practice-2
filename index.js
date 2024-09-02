@@ -22,7 +22,11 @@ for(i=0;i<archetype.length;i=i+1){
 }*/
 
 
-let first=['a','b','c']
+/*let first=['a','b','c']
 let second=['d','e','f']
 let res=first.concat(second)
-console.log(res)
+console.log(res)*/
+
+let nameString= "Archetype Batch 1"
+let nameArray=Array.from(nameString)
+console.log(nameArray)
