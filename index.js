@@ -14,9 +14,15 @@ archetype.forEach((item)=>{
 
 })*/
 
-let archetype=["Android","IOS","Windows","Mac","Web"]
+/*let archetype=["Android","IOS","Windows","Mac","Web"]
 
 for(i=0;i<archetype.length;i=i+1){
     console.log(archetype[i])
 
-}
+}*/
+
+
+let first=['a','b','c']
+let second=['d','e','f']
+let res=first.concat(second)
+console.log(res)
