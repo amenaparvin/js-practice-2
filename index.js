@@ -100,9 +100,15 @@ console.log(text)
 */
 
 
+/*let text="hello world"
+let res=text.trim()
+console.log(res)
+*/
+
+
 let text="hello world"
-text.trim()
-console.log(text)
+let res=text.toUpperCase()
+console.log(res)
 
 
 
