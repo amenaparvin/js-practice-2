@@ -138,3 +138,9 @@ console.log(peoples[1] ['age'])
 //----------------------Navigation object-------------------
 // practice by using browser
 
+
+
+//----------------------date object-------------------
+
+let date=new Date()
+console.log(date)
