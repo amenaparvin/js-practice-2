@@ -94,8 +94,14 @@ console.log(person.city)
 
 
 //-----------------string---------------
+/*
+let text="hello world"
+console.log(text)
+*/
+
 
 let text="hello world"
+text.trim()
 console.log(text)
 
 
