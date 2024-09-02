@@ -27,6 +27,10 @@ let second=['d','e','f']
 let res=first.concat(second)
 console.log(res)*/
 
-let nameString= "Archetype Batch 1"
+/*let nameString= "Archetype Batch 1"
 let nameArray=Array.from(nameString)
-console.log(nameArray)
+console.log(nameArray)*/
+
+let archetype=["Android","IOS","Windows","Mac","Web"]
+let res=archetype.includes("Appple");
+console.log(res)
