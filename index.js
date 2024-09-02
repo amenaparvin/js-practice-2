@@ -61,10 +61,34 @@ let res=archetype.slice(1,3);
 console.log(res);
 */
 
-let numbers=[30,88,50,60,33,10,5];
+/*let numbers=[30,88,50,60,33,10,55];
 numbers.sort()
+numbers.reverse()
 console.log(numbers);
+*/
 
+//-----------------object---------------
+
+/*let person={
+    name:"archetype",
+    age:"45",
+    city:"chittagong",
+    isBangladeshi:true
+}
+
+
+console.log(person)
+*/
+
+let person={
+    name:"archetype",
+    age:"45",
+    city:"chittagong",
+    isBangladeshi:true
+}
+
+
+console.log(person.city)
 
 
 
