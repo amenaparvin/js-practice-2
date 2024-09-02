@@ -36,6 +36,14 @@ let res=archetype.includes("Appple");
 console.log(res)*/
 
 
-let archetype=["Android","IOS","Windows","Mac","Web"]
+/*let archetype=["Android","IOS","Windows","Mac","Web"]
 let res=archetype.indexOf("Web")
 console.log(res)
+*/
+
+let archetype=["Android","IOS","Windows","Mac","Web"]
+let res=archetype.pop()
+console.log(res)
+
+
+
