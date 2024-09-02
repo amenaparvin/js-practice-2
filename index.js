@@ -111,10 +111,14 @@ let res=text.toUpperCase()
 console.log(res)
 */
 
-
+/*
 let text="hello world"
 let res=text.toLowerCase()
 console.log(res)
+*/
 
+let text="hello world"
+let res=text.indexOf("w")
+console.log(res)
 
 
