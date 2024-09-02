@@ -80,7 +80,7 @@ console.log(numbers);
 console.log(person)
 */
 
-let person={
+/*let person={
     name:"archetype",
     age:"45",
     city:"chittagong",
@@ -89,8 +89,14 @@ let person={
 
 
 console.log(person.city)
+*/
 
 
+
+//-----------------string---------------
+
+let text="hello world"
+console.log(text)
 
 
 
