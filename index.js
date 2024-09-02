@@ -51,9 +51,14 @@ let res=archetype.push("Apple")
 console.log(archetype)
 */
 
-let archetype=["Android","IOS","Windows","Mac","Web"]
+/*let archetype=["Android","IOS","Windows","Mac","Web"]
 archetype.reverse("");
 console.log(archetype)
+*/
+
+let archetype=["Android","IOS","Windows","Mac","Web"]
+let res=archetype.slice(1,3);
+console.log(res);
 
 
 
