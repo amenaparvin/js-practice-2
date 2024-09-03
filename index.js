@@ -150,7 +150,7 @@ console.log(date.getMonth())
 
 
 //abs,ceil,floor,max,min,random,round,PI,pow
-
+/*
 console.log(Math.abs(-90))
 console.log(Math.PI)
 console.log((1000+Math.random()*9000))
@@ -161,3 +161,10 @@ console.log(Math.max(1,2,3))
 console.log(Math.round(4,7))
 console.log(Math.ceil(4,7))
 console.log(Math.floor(4,7))
+*/
+
+function sleep() {
+    console.log("Jasim is sleeping from 10 pm");
+}
+
+console.log("My name is Jasim")
